@@ -16,4 +16,4 @@ Bu endpoint get metodu ilə bütün sifarişləri hər səhifədə 15 ədəd olm
 - /api/prepare_order
 Bu endpointə put sorğusu göndərməklə satıcı müvafiq sifarişə hazırlanma və çatdırılma tarixini qeyd edir. Göndərilən data qeyd olunan formada tam validasiya olunur.
 
-<b>Postman kimi api sorğuları göndərmək üçün istifadə olunan proqramlarda, sorğu göndərməzdən əvvəl header-də 'Accept: application/json' qaydaını qeyd etməyi unutmayın. Əks təqdirdə Post və Put metodu gözlənilən nəticəni verməyə bilər.</b>
+<b>Postman kimi api sorğuları göndərmək üçün istifadə olunan proqramlarda, sorğu göndərməzdən əvvəl header-də 'Accept: application/json' qaydasını qeyd etməyi unutmayın. Əks təqdirdə Post və Put metodu gözlənilən nəticəni verməyə bilər.</b>
